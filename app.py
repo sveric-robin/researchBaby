@@ -11,12 +11,12 @@ from research_baby import (
 )
 
 st.set_page_config(
-    page_title="Research Baby",
+    page_title="Research, Baby!",
     page_icon="📚",
     layout="wide",
 )
 
-st.title("📚 Research Baby")
+st.title("📚 Research, Baby!")
 st.caption("Topic → most-cited seeds → top citing papers (Semantic Scholar Graph API)")
 
 with st.sidebar:
