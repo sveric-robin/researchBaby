@@ -3,10 +3,12 @@
 hosted on https://researchbaby.streamlit.app 
 
 Interactive web app for quickly exploring a research topic:
-<img width="898" alt="image" src="https://github.com/user-attachments/assets/56895622-53c8-42f3-88b7-162573124e35" />
 
 > **Topic → most-cited seed papers → top citing papers**  
 > Powered by the [Semantic Scholar Graph API](https://api.semanticscholar.org/graph/v1/).
+
+<img width="898" alt="image" src="https://github.com/user-attachments/assets/56895622-53c8-42f3-88b7-162573124e35" />
+
 
 This app wraps the original `research_baby.py` CLI tool in a simple [Streamlit](https://streamlit.io) GUI so you can share it easily with colleagues.
 
