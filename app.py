@@ -65,7 +65,7 @@ with st.sidebar:
 
     st.markdown(
         """
-        ℹ️ The app uses politeness & retry logic so it may take a few seconds for large searches.
+        ℹ️ The app uses politeness & retry logic so it may take a minute for large searches.Grab some coffee!
         A useful thing by: robin.kerstens@uantwerpen.be 
         """
     )
